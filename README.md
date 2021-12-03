@@ -1,5 +1,9 @@
 # Android Clone Coding Project #2 LOTTO 번호 추첨기
+# 로또 번호 추첨기
 
+0~5개까지 수동 선택 가능하도록 구현하기
+수동선택한 번호를 제외한 나머지 번호는 랜덤으로 표시하기
+</br>
 # 결과화면
 
 
@@ -8,7 +12,7 @@
 
 
 
-
+</br>
 
 # 배운 내용 정리
 
@@ -22,27 +26,13 @@
 - 중복 코드 정리하기
 - Shape Drawable 사용하기 
   - (https://developer.android.com/guide/topics/resources/drawable-resource#Shape)
+- Kotlin 문법
+ - apply
+ - When
+ - Random
+ - Collection (Set, List)
+ - 람다함수
 
 
 
-### Kotlin 문법
 
-apply
-
-When
-
-Random
-
-Collection
-
-​	- Set, List
-
-람다함수
-
-
-
-### 로또 번호 추첨기
-
-0~5개까지 수동 선택 가능하도록 구현하기
-
-수동선택한 번호를 제외한 나머지 번호는 랜덤으로 표시하기
