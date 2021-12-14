@@ -4,10 +4,9 @@
 수동선택한 번호를 제외한 나머지 번호는 랜덤으로 표시하기
 </br>
 # 결과화면
-
-
-
-![1](./screenshot/2.png)
+|Screenshot1|Screenshot2|
+|---|---|
+|<img src="./screenshot/1.png"/>|<img src="./screenshot/2.png"/>|
 
 
 
